@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\bin\Debug\net8.0\EvenPowersof2.exe
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\bin\Debug\net8.0\EvenPowersof2.deps.json
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\bin\Debug\net8.0\EvenPowersof2.runtimeconfig.json
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\bin\Debug\net8.0\EvenPowersof2.dll
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\bin\Debug\net8.0\EvenPowersof2.pdb
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\EvenPowersof2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\EvenPowersof2.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\EvenPowersof2.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\EvenPowersof2.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\EvenPowersof2.dll
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\refint\EvenPowersof2.dll
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\EvenPowersof2.pdb
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\EvenPowersof2.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\EvenPowersof2\EvenPowersof2\obj\Debug\net8.0\ref\EvenPowersof2.dll
